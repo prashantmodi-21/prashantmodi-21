@@ -8,7 +8,9 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -38,8 +40,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prashantmodi21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prashant%20Modi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/prashantmodi_21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-prashantmodi_21-pinkstyle=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/prashantmodi_21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-prashantmodi_21-pink?style=flat-square&logo=instagram"></a>
 <a href="mailto:prashantmodi50
-@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prashantmodi50
-@gmail.com-redstyle=flat-square&logo=gmail"></a>
+@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prashantmodi50@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
